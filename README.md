@@ -159,14 +159,8 @@ __pycache__/
 
 ---
 
-## Author
+## 🌐 Author
 
-**Ubaid Saghir**  
-Cloud & Data Engineering Training · Week 5  
-🔗 [github.com/ubaidsaghir](https://github.com/ubaidsaghir)
+[![GitHub](https://img.shields.io/badge/GitHub-ubaidsaghir-181717?logo=github&logoColor=white)](https://github.com/ubaidsaghir)
 
 ---
-
-<div align="center">
-  <sub>Built with ☁️ as part of a structured cloud data engineering program</sub>
-</div>
